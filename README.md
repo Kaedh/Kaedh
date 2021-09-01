@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi :) 👋
+
+Sou estudante de análise e desenvolvimento de sistemas na Fatec de Ribeirão Preto, entusiasta da área de programação e apaixonado pela stack JavaScript/React. Sempre realizando projetos pessoais no meu tempo livre, e lendo sobre desenvolvimento web em fóruns de tecnologia, no GitHub e na própria documentação. 
+
+Meu primeiro contato com  programação foi aos 14 anos, quando comprei um livro sobre Turbo C++ e fui consumido por cada página. Naturalmente, logo surgiu o interesse em criar meus próprios jogos ao descobrir o que era possível ser feito usando uma biblioteca de jogos em Python, a Pygame.
+
+Atualmente me aventurando no Desenvolvimento Web, usando React. E atuando como estagiário em uma empresa de soluções comerciais, sempre buscando evoluir e me tornar um dia um grande desenvolvedor. 
+
+[![Linkedin: Kaedh](https://img.shields.io/badge/-Kaedh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-martins98/)](https://www.linkedin.com/in/leonardo-martins98/)
+[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
 
 <!--
 **Kaedh/Kaedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
